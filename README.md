@@ -10,6 +10,8 @@
 - [Never Ask What They Want...](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.agvqyrv2t)
 - [How to Conduct User Interviews](https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews)
 - [First Rule of Usability? Don't Listen to Users](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)
+- [A Guide for User Research Observers](https://medium.com/@ryaninteractive/a-guide-for-user-research-observers-2df4e0b50423#.xiiejvknj)
+- [Doing customer interviews](https://blog.next.amsterdam/doing-customer-interviews-how-to-get-to-actual-value-d26bdd17d468#.vdsa486n)
 
 ## Usability: 
 - [Rocket Surgery Made Easy - resources](https://www.sensible.com/downloads-rsme.html)
@@ -18,8 +20,6 @@
 - [why only 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
 
 ## General
-- [A Guide for User Research Observers](https://medium.com/@ryaninteractive/a-guide-for-user-research-observers-2df4e0b50423#.xiiejvknj)
-- [Doing customer interviews](https://blog.next.amsterdam/doing-customer-interviews-how-to-get-to-actual-value-d26bdd17d468#.vdsa486n)
 - [18f](https://methods.18f.gov/index.html)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [usability.gov Doing Usability](https://www.usability.gov/how-to-and-tools/methods/index.html)
