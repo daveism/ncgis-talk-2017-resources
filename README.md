@@ -1,11 +1,11 @@
 ## Books to get started
 - [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292) 
 
-- [UX for Beginers](http://shop.oreilly.com/product/0636920035084.do) **or some of the same information online @** [ux crash course 31fundamentals)](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+- [UX for Beginers](http://shop.oreilly.com/product/0636920035084.do) **or some of the same information online @** [ux crash course 31fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
  
-- https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=pd_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ
+- [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=pd_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ)
 
-- https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ
+- [Don't Make me Think Revistted](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ)
 
 
 
