@@ -4,10 +4,6 @@
 - [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=pd_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ)
 - [Don't Make me Think Revisted](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ)
 
-
-
-
-
 ## User Research:
 - [Tips and Tricks for Conducting Successful User Research](https://www.nngroup.com/articles/tips-user-research-field/)
 - [Interviewing Users](https://www.nngroup.com/articles/interviewing-users/)
