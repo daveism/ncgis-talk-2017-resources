@@ -1,7 +1,7 @@
 ## Books to get started
 - https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292 
 
-- http://shop.oreilly.com/product/0636920035084.do **or read a lof of the same information at** http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
+- http://shop.oreilly.com/product/0636920035084.do **or some of the same information online @** http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
  
 - https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=pd_sbs_14_img_2?_encoding=UTF8&psc=1&refRID=WRF6BN2178ZG68KCGZWQ
 
