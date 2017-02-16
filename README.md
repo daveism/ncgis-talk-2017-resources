@@ -18,9 +18,9 @@
 - [UX methods and when to use them](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [System Usability Scale (SUS)](https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4)
 - [why only 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+- [usability.gov Doing Usability](https://www.usability.gov/how-to-and-tools/methods/index.html)
 
 ## General
 - [18f](https://methods.18f.gov/index.html)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
-- [usability.gov Doing Usability](https://www.usability.gov/how-to-and-tools/methods/index.html)
 - [Open Ended Questions](https://www.nngroup.com/articles/open-ended-questions/)
