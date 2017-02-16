@@ -21,25 +21,24 @@
 - https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/
 
 ## Usability: 
-  **Resources from rocket  surgery made easy you can view on doing Usability - including a sample video**
-  https://www.sensible.com/downloads-rsme.html
+**Resources from rocket  surgery made easy you can view on doing Usability - including a sample video**
+https://www.sensible.com/downloads-rsme.html
 
+### UX methods and when to use them
+https://www.nngroup.com/articles/which-ux-research-methods/
 
-  ### UX methods and when to use them
-  https://www.nngroup.com/articles/which-ux-research-methods/
+#### System Usability Scale (SUS)
+https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4
 
-  #### System Usability Scale (SUS)
-  https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4
-
-  #### why only 5 users
-  https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
+#### why only 5 users
+https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
 
 ## others
 https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.q1iis52ze 
 https://medium.com/@ryaninteractive/a-guide-for-user-research-observers-2df4e0b50423#.xiiejvknj
 https://blog.next.amsterdam/doing-customer-interviews-how-to-get-to-actual-value-d26bdd17d468#.vdsa486n
 
-### These are great I refer to them a lot
+## These are great I refer to them a lot
 https://methods.18f.gov/index.html
 https://www.nngroup.com/articles/which-ux-research-methods/
 https://www.usability.gov/how-to-and-tools/methods/index.html
