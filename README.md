@@ -21,18 +21,18 @@
 - https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/
 
 ## Usability: 
-**Resources from rocket  surgery made easy you can view on doing Usability - including a sample video**
-https://www.sensible.com/downloads-rsme.html
+  **Resources from rocket  surgery made easy you can view on doing Usability - including a sample video**
+  https://www.sensible.com/downloads-rsme.html
 
 
-### UX methods and when to use them
-https://www.nngroup.com/articles/which-ux-research-methods/
+  ### UX methods and when to use them
+  https://www.nngroup.com/articles/which-ux-research-methods/
 
-####System Usability Scale (SUS)
-https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4
+  #### System Usability Scale (SUS)
+  https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4
 
-#### why only 5 users
-https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
+  #### why only 5 users
+  https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
 
 ## others
 https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.q1iis52ze 
