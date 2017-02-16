@@ -21,11 +21,9 @@
 - [System Usability Scale (SUS)](https://medium.theuxblog.com/measure-your-products-usability-with-one-simple-number-3ecef1cb757e#.jux9dmjg4)
 - [why only 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
 
-## Others
+## General
 - [A Guide for User Research Observers](https://medium.com/@ryaninteractive/a-guide-for-user-research-observers-2df4e0b50423#.xiiejvknj)
 - [Doing customer interviews](https://blog.next.amsterdam/doing-customer-interviews-how-to-get-to-actual-value-d26bdd17d468#.vdsa486n)
-
-## These are great I refer to them a lot
 - [18f](https://methods.18f.gov/index.html)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [usability.gov Doing Usability](https://www.usability.gov/how-to-and-tools/methods/index.html)
