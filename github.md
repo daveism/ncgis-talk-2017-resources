@@ -145,7 +145,7 @@ Change the color scheme to #5091B2 in ```config/deafualt.js```
 
 **Still No cost**
 
-# Step 7: Using your Domain
+# Step 7: Using your Domain or Subdomain
 
 Okay you caught me.  You might have to pay a few dollars, if you buy a domain. And you might need I.T.'s help. But it's easy I promise.
 
