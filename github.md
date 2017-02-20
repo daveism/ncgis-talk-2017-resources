@@ -30,17 +30,20 @@ To you ArcGIS online account.
 
 #### Step 2: Share
 
-The map, WNC Fires 2016 should now be listed in your my content section
+Share thehe map.
+
+WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section
 
 ```
-Make a note about webmap id your going to need it later
 Open the web map in map in the ArcGIS Online map viewer
+```
+
+```
 Share with Every one
 ```
 
-[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
+> Make a note about webmap id your going to need it later
 
-[Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 
 #### Step 3: Fork a viewer
 
