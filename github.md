@@ -52,7 +52,7 @@ Share with Every one
 
 > Make a note about webmap id your going to need it later
 
-![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SH)
+![share](https://docs.google.com/uc?id=0BykF_bN9fsvIZVVIZU84Y1NUX2M)
 
 # Step 3: Fork a viewer
 
