@@ -17,16 +17,22 @@ Click on details and when the map opens copy the web id.
 Also it might help to have information about the data in the map.  You may need this later to customize the viewer.
 ```
 
-[ArcGIS My Content](http://www.arcgis.com/home/content.html)
+[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 
 #### Step 3: Fork a viewer
 ```
-We are going to for an ESRI template.  
-Either search for it of fork it directly in GitHub
+We are going to use an ESRI template.  
+Either find it in ArcGIS online. 
+
 ```
-- [Summary Viewer](https://github.com/Esri/summary-viewer-template)
+
+
+```
+or fork it directly in GitHub
+```
+[Summary Viewer](https://github.com/Esri/summary-viewer-template)
 
 
 ```
