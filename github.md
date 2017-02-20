@@ -13,11 +13,13 @@ _this save's the map into your ArcGIS Online account._
 #### Step 2: The map, WNC Fires 2016 should now be listed in your my content section
 ```
 Make a note about webmap id
-Click on details and when the map opens copy the web id. 
+Click on details and when the map opens copy the web id.
+Also it might help to have information about the data in the map.  You may need this later to customize the viewer.
 ```
-- [ArcGIS My Content](http://www.arcgis.com/home/content.html)
 
-- [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
+[ArcGIS My Content](http://www.arcgis.com/home/content.html)
+
+[Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 
 #### Step 3: Fork a viewer
 ```
