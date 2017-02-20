@@ -156,6 +156,7 @@ On GitHub go to settings >
 
  Scroll down to the GitHub Pages section.
  look for section - Custom Domain
+ 
    in the text for Custom Domain box add text for a subdomain for me it's wncfires2016.nemac.org
    
    of course for your site the ```nemac.org``` will change
