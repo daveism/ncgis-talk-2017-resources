@@ -75,6 +75,7 @@ Do a hard refresh in your browser.
 ```
 
 **No servers**
+
 **No cost**
 
 #### Step 5: Customize
