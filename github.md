@@ -75,12 +75,12 @@ You can also just fork the [Summary Map Viewer](https://github.com/Esri/summary-
 
 Rename the repository:  WNC Fires 2016 
 
-On GitHub go to settings >  
+On GitHub in the forked repository go to settings >  
 
-```
-  In the rename text box type WNC Fires 2016 
-  then click rename
-```
+
+  In the rename text box type ```WNC Fires 2016```
+  then click ```rename```
+
 
 # Step 3: Magic
 
