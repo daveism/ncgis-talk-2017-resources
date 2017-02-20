@@ -10,7 +10,7 @@ You can create a FREE account!
 [GitHub](https://github.com/)
 You can create a FREE account!
 
-[Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
+[Source Map](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data for getting field names
 
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
@@ -148,22 +148,25 @@ Change the color scheme to #5091B2 in ```config/deafualt.js```
 
 #### Step 7: Using your own URL
 
-okay you caught me.  Yu might have to pay a few dollars here and you might need I.T.'s help. But it's easy I promise.
+Okay you caught me.  You might have to pay a few dollars, if you buy a domain. And you might need I.T.'s help. But it's easy I promise.
 
 
 ```
-On GitHub got to the settings and scroll to the GitHub Pages section
-look for Custom domain
-in the blank box add a subdomain for me it's wncfires2016.nemac.org
-click save
+On GitHub go to settings >
+ Scroll down to the GitHub Pages section.
+ look for section - Custom domain
+   in the blank box add a subdomain for me it's wncfires2016.nemac.org
+   
+   of course for your site the nemac.org will change
+
+  click save
 ```
 
 There should be a new file named CNAME.  It contains the text you entered as a subdomain.
 
-The viewer has some hardcoding in it we need change the line 
+The viewer has some hardcoding in it we need fix it
 
-- [orginal code](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L95)
+- [new code](https://gist.github.com/daveism/d9d2cf2d34c5ee9b540ec5ca8abf4dab/revisions)
 
-- [new code](https://gist.github.com/daveism/2222a46bcd36db23b24bca85066bd155#file-ncgis-2017-index-with-dns-html-L95)
+no go to the URL in my case it's http://wncfires2016.nemac.org/
 
-no go to the URL \
