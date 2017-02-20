@@ -5,7 +5,7 @@
 ```
 For this example use this map at the URL below and do a save as WNC Fires 2016
 ```
-- [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
+[Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
 
 __ this save's the map into your ArcGIS Online account.
 
