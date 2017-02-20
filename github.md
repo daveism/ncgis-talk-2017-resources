@@ -22,10 +22,10 @@ Also it might help to have information about the data in the map.  You may need 
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 
 #### Step 3: Fork a viewer
+
 ```
 We are going to use an ESRI template.  
 Either find it in ArcGIS online. 
-
 ```
 
 
@@ -47,16 +47,31 @@ On GitHub scroll down to the GitHub Pages section.
 Change the select source to master branch save
 ```
 
-- Wait a few moments
-- When the url turns green it's ready.  Click it
-
-#### Step 4: Configure it
-
-change the config/default.js to match this:
-- [Config changes](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
+```
+Wait a few moments
+```
 
 ```
-Do a hard refrerh in your browser.
+When the url turns green it's ready.  Click and see the magic.
+```
+
+#### Step 4: Configure the viewer
+
+```
+change the config/default.js to match the following file:
+you can copy and paste the entire thing
+```
+
+[Config changes](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
+
+```
+or just the stuff that changed
+```
+
+
+
+```
+Do a hard refresh in your browser.
 ```
 
 ****No servers yet.
