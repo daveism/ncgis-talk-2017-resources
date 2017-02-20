@@ -23,7 +23,7 @@ Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from a
 
 ### Convience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
-If your logged into ArcGIS Online (AGOL) go straight to your content page.  Because I never seem to go straight there.
+If you're logged into ArcGIS Online (AGOL) go straight to my content page.  Because I never seem to go straight there and sometimes the link to my content is not available.
 
 
 # Step 1: "Borrow" a map
