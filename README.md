@@ -21,6 +21,7 @@
 - [usability.gov Doing Usability](https://www.usability.gov/how-to-and-tools/methods/index.html)
 
 ## General
+- [Value Proposition](https://strategyzer.com/canvas/value-proposition-canvas)
 - [18f](https://methods.18f.gov/index.html)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [Open Ended Questions](https://www.nngroup.com/articles/open-ended-questions/)
