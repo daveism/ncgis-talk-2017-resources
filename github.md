@@ -112,7 +112,7 @@ then
 
 
 ```
-or just replace the file with this one
+or just replace the file with this one:
 ```
 [main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
 
