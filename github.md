@@ -47,28 +47,39 @@ Share with Every one
 
 #### Step 3: Fork a viewer
 
-```
 We are going to use an ESRI template.  
-Either find it in ArcGIS online. 
+
+```
+Search ArcGIS Online for the Summary Map Viewer 
 ```
 
 
 ```
-or fork it directly in GitHub
+Then fork it directly in GitHub
 ```
-[Summary Viewer](https://github.com/Esri/summary-viewer-template)
 
 
-```
+Your can fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) it directly in GitHub
+
+
+#### Step 4: Rename
+
 Rename the viewer:  WNC Fires 2016 
-On GitHub go to settings, rename it, then click rename
-```
-
-#### Step 3: Say the magic words GitHub Pages
 
 ```
-On GitHub scroll down to the GitHub Pages section.
-Change the select source to master branch save
+On GitHub go to settings >  
+  In the rename text box type WNC Fires 2016 
+  then click rename
+```
+
+#### Step 3: Do some magic
+
+GitHub Pages
+
+```
+On GitHub go to settings >
+  Scroll down to the GitHub Pages section.
+  Change the select source to master branch click save
 ```
 
 ```
@@ -76,22 +87,26 @@ Wait a few moments
 ```
 
 ```
-When the url turns green it's ready.  Click and see the magic.
+When the url turns green it's ready.  
 ```
+
+Click and see the magic.
+
 
 #### Step 4: Configure the viewer
 
 ```
-change the config/default.js to match the following file:
+change the config/default.js 
 you can copy and paste the entire thing
 ```
 
-[Config changes](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
+[Config changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce)
 
 ```
 or just the stuff that changed
 ```
 
+https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions
 
 
 ```
