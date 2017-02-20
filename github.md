@@ -26,10 +26,6 @@ Do a save as: WNC Fires 2016
 To you ArcGIS online account.
 ```
 
-[Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
-Again the source map for this excercise.
-
-
 #### Step 2: Share
 
 The map, WNC Fires 2016 should now be listed in your my content section
