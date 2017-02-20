@@ -90,22 +90,34 @@ You need a place to host it.
 ```
 
 ```
-Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know! 
+Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with js/main.js
 ```
 
 https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5#file-ncgis-2017-main-js-L334
+
+```
 and
+```
+
+
 https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5#file-ncgis-2017-main-js-L344
 
 ```
 then
 ```
 
+```
+then
+```
 
+
+```
+or just replace the file with this one
+```
 [main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
 
 
-#### Step 6: Customize look and feel
+#### Step 6: Customize the look to match your branding
 
 ```
 add this line to index.html
@@ -122,10 +134,8 @@ just replace the whole file css/main.css with this one:
 
 #### Step 7: Using your own URL
 
-okay you caught me you might have to pay a few dollars here and you might need it's help. But it's easy I promise.
+okay you caught me.  Yu might have to pay a few dollars here and you might need I.T.'s help. But it's easy I promise.
 
-
-My example.
 
 ```
 On GitHub got to the settings and scroll to the GitHub Pages section
