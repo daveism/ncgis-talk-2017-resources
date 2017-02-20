@@ -26,13 +26,15 @@ Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from a
 If your logged into ArcGIS Online (AGOL) go straight to your content page.  Because I never seem to go straight there.
 
 
-# Step 1: Log into ArcGIS Online borrow a map and save it
+# Step 1: "Borrow" a map
+
+Log in to ArcGIS Online
 
 Using this [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
 
-```
-Do a save as: WNC Fires 2016
-```
+
+Save as: WNC Fires 2016
+
 
 ![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
 
