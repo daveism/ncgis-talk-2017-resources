@@ -74,7 +74,7 @@ or just the stuff that changed
 Do a hard refresh in your browser.
 ```
 
-## Note
+## Note to self
 
 **No servers**
 
