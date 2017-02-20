@@ -45,16 +45,14 @@ Share the map.
 
 WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section
 
-```
-Open the web map in map in the ArcGIS Online map viewer
-```
 
-```
+Open the web map in ArcGIS Online using via a map viewer
+
 Share with Every one
-```
 
 > Make a note about webmap id your going to need it later
 
+![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SH)
 
 # Step 3: Fork a viewer
 
