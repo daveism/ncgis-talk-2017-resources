@@ -143,6 +143,9 @@ just replace the whole file css/main.css with this one:
 [CSS changes](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
 
 
+Change the color scheme to #5091B2 in ```config/deafualt.js```
+
+
 #### Step 7: Using your own URL
 
 okay you caught me.  Yu might have to pay a few dollars here and you might need I.T.'s help. But it's easy I promise.
