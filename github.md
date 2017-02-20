@@ -10,10 +10,11 @@ You can create a FREE account!
 [GitHub](https://github.com/)
 You can create a FREE account!
 
-[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
-
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data for getting field names
+
+[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
+If your logged into ArcGIS Online (AGOL) go straight to your content page.  Because I never seem to go straight there.
 
 
 #### Step 1: Log into ArcGIS Online borrow a map and save it
