@@ -101,7 +101,7 @@ you can copy and paste the file ```config/default.js```  from here
 
 
 or just edit the stuff that changed
-[config/default.js Changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions)
+[config/default.js changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions)
 
 
 ```
@@ -120,29 +120,13 @@ Do a hard refresh in your browser.
 > You need a place to host it.
 
 
-Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with ```js/main.js``` [js/main.js](https://gist.github.com/daveism/288e5f6e983d18eeaabd198298e530f4)
+Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with ```js/main.js```
 
-```
-and
-```
+you replace the file with this one:
+[js/main.js](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020)
 
-
-https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5#file-ncgis-2017-main-js-L344
-
-```
-then
-```
-
-```
-then
-```
-
-
-```
-or just replace the file with this one:
-```
-[main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
-
+or just edit the stuff that changed
+[js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions)
 
 #### Step 6: Customize the look to match your branding
 
