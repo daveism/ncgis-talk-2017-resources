@@ -74,6 +74,8 @@ or just the stuff that changed
 Do a hard refresh in your browser.
 ```
 
+## Note
+
 **No servers**
 
 **No cost**
