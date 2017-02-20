@@ -1,5 +1,5 @@
 
-# No It needed. (Dude where's my server)
+# No I.T. needed. (Dude where's my server)
 
 ## Things I am using
 
