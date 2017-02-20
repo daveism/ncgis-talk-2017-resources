@@ -56,8 +56,32 @@ One customized it can no longer live on ArcGIS online. You need a place to host 
 
 - [main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
 
+#### Step 6: Customize look and feel
+
 - [index.html changes](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e)
 
 - [CSS changes](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
 
-- [index.html DNS changes](https://gist.github.com/daveism/2222a46bcd36db23b24bca85066bd155)
+#### Step 7: Using your own URL
+
+okay you caught me you might have to pay a few dollars here and you might need it's help. But it's easy I promise.
+
+
+My example.
+
+```
+On GitHub got to the settings and scroll to the GitHub Pages section
+look for Custom domain
+in the blank box add a subdomain for me it's wncfires2016.nemac.org
+click save
+```
+
+There should be a new file named CNAME.  It contains the text you entered as a subdomain.
+
+The viewer has some hardcoding in it we need change the line 
+
+- [orginal code](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L95)
+
+- [new code](https://gist.github.com/daveism/2222a46bcd36db23b24bca85066bd155#file-ncgis-2017-index-with-dns-html-L96)
+
+no go to the URL \
