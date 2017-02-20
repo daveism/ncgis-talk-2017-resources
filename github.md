@@ -23,8 +23,10 @@ Using the [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f
 
 ```
 Do a save as: WNC Fires 2016
-To you ArcGIS online account.
 ```
+
+To you ArcGIS online account.
+
 
 #### Step 2: Share
 
