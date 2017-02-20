@@ -4,12 +4,10 @@
 ## Things I am using
 
 [ArcGIS Online](http://www.arcgis.com/)
-
-You can create a FREE account
+* You can create a FREE account
 
 [GitHub](https://github.com/)
-
-You can create a FREE account
+* You can create a FREE account
 
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
