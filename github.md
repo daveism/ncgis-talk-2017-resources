@@ -120,7 +120,7 @@ Do a hard refresh in your browser.
 > You need a place to host it.
 
 
-Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with ```js/main.js``` [js/main.js](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
+Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with ```js/main.js``` [js/main.js](https://gist.github.com/daveism/288e5f6e983d18eeaabd198298e530f4)
 
 ```
 and
