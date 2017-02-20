@@ -150,7 +150,6 @@ Change the color scheme to #5091B2 in ```config/deafualt.js```
 Okay you caught me.  You might have to pay a few dollars, if you buy a domain. And you might need I.T.'s help. But it's easy I promise.
 
 
-
 On GitHub go to settings >
 
 
@@ -165,7 +164,8 @@ On GitHub go to settings >
 
 There should be a new file in your repository named CNAME.  It contains the text you entered as a subdomain.
 
-Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example using Amazons Route 53.
+Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example of what the cname looks like using Amazons Route 53.
+
 
 
 The viewer has some hardcoding in it we need fix it change this:
