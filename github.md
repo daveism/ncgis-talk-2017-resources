@@ -88,7 +88,7 @@ On GitHub go to settings >
   Scroll down to the ```GitHub Pages``` section.
   Change the select source to ```master branch``` then click ```save```
 
-Wait a few moments... be patient.
+Wait a few moments... refresh the browser.
 
 When the background of the url just under the GitHub pages seaction turns green it's ready.  
 
