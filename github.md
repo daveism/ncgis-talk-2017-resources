@@ -4,14 +4,17 @@
 ## Things I am using
 
 [ArcGIS Online](http://www.arcgis.com/)
+
 You can create a FREE account
 
 [GitHub](https://github.com/)
+
 You can create a FREE account
 
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
+
 Source Data for getting field names
 
 
