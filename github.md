@@ -24,7 +24,7 @@ Source Data I created and shared with everyone for getting field names
 If your logged into ArcGIS Online (AGOL) go straight to your content page.  Because I never seem to go straight there.
 
 
-#### Step 1: Log into ArcGIS Online borrow a map and save it
+# Step 1: Log into ArcGIS Online borrow a map and save it
 
 Using the [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) at this URL
 
@@ -35,7 +35,7 @@ Do a save as: WNC Fires 2016
 To you ArcGIS online account.
 
 
-#### Step 2: Share
+# Step 2: Share
 
 Share thehe map.
 
@@ -52,7 +52,7 @@ Share with Every one
 > Make a note about webmap id your going to need it later
 
 
-#### Step 3: Fork a viewer
+# Step 3: Fork a viewer
 
 We are going to use an ESRI template.  
 
@@ -69,7 +69,7 @@ Then fork it directly in GitHub
 Your can fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) it directly in GitHub
 
 
-#### Step 4: Rename
+# Step 4: Rename
 
 Rename the viewer:  WNC Fires 2016 
 
@@ -79,7 +79,7 @@ On GitHub go to settings >
   then click rename
 ```
 
-#### Step 3: Do some magic
+# Step 3: Do some magic
 
 GitHub Pages
 
@@ -100,7 +100,7 @@ When the url turns green it's ready.
 Click and see the magic.
 
 
-#### Step 4: Configure the viewer
+# Step 4: Configure the viewer
 
 
 you replace the file with the ```config/default.js``` with the contents of 
@@ -115,14 +115,14 @@ or just edit the stuff that changed
 Do a hard refresh in your browser.
 ```
 
-## Note This
+# Note
 
 **No servers**
 
 **No cost**
 
 
-#### Step 5: Customize
+# Step 5: Customize
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
 > You need a place to host it.
 
@@ -135,7 +135,7 @@ Replace the file ```js/main.js``` with the contents of
 or just edit the stuff that changed
 [js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions)
 
-#### Step 6: Customize the look to match your branding
+# Step 6: Customize the look to match your branding
 
 ```
 add this line to index.html
@@ -152,8 +152,13 @@ just replace the whole file css/main.css with this one:
 
 Change the color scheme to #5091B2 in ```config/deafualt.js```
 
+# Note
 
-#### Step 7: Using your own URL
+**Still No servers**
+
+**Still No cost**
+
+# Step 7: Using your own URL
 
 Okay you caught me.  You might have to pay a few dollars, if you buy a domain. And you might need I.T.'s help. But it's easy I promise.
 
@@ -177,3 +182,8 @@ The viewer has some hardcoding in it we need fix it
 
 no go to the URL in my case it's http://wncfires2016.nemac.org/
 
+# Note
+
+**Still No servers**
+
+**Maybe some minimal cost**
