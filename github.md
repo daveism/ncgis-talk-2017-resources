@@ -108,7 +108,7 @@ or just edit the stuff that changed
 Do a hard refresh in your browser.
 ```
 
-## Note to self
+## Note This
 
 **No servers**
 
