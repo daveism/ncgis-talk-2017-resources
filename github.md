@@ -58,18 +58,15 @@ Share with Everyone
 
 We are going to use an ESRI template.  
 
-
-
 Search ArcGIS Online for the Summary Map Viewer 
 
 Click on the Viewer.
 
 Click on Download.
 
-This takes yuo the GitHub Repostory for the Summary Map Viewer.
+This will take you to the GitHub Repostory for the Summary Map Viewer.
 
 Fork it.
-
 
 You can also just fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) in GitHub with ArcGIS Online
 
