@@ -58,9 +58,7 @@ Share with Every one
 
 We are going to use an ESRI template.  
 
-```
 Search ArcGIS Online for the Summary Map Viewer 
-```
 
 
 ```
