@@ -69,9 +69,6 @@ This will take you to the GitHub Repostory for the Summary Map Viewer.
 
 Fork it.
 
-You can also just fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) in GitHub with ArcGIS Online
-
-
 # Step 4: Rename the "repository"
 
 Rename the repository:  WNC Fires 2016 
