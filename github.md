@@ -1,20 +1,39 @@
 
 ## No It needed. (Dude where's my server)
 
+## Things I am using
+
+[ArcGIS Online](http://www.arcgis.com/)
+You can create a FREE account
+
+[GitHub]https://github.com/()
+You can create a FREE account
+
+[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
+
+[Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
+Source Data for getting field names
+
+
 #### Step 1: Log into ArcGIS Online borrow a map and save it
 ```
-For this example use this map at the URL below and do a save as WNC Fires 2016
+For this example use the map at the URL below
+Then do a save as: WNC Fires 2016
+To you ArcGIS online account.
 ```
+
 [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
 
-_this save's the map into your ArcGIS Online account._
 
 
-#### Step 2: The map, WNC Fires 2016 should now be listed in your my content section
+#### Step 2: Share
+
+The map, WNC Fires 2016 should now be listed in your my content section
+
 ```
-Make a note about webmap id
-Click on details and when the map opens copy the web id.
-Also it might help to have information about the data in the map.  You may need this later to customize the viewer.
+Make a note about webmap id your going to need it later
+Open the web map in map in the ArcGIS Online map viewer
+Share with Every one
 ```
 
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
@@ -150,6 +169,6 @@ The viewer has some hardcoding in it we need change the line
 
 - [orginal code](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L95)
 
-- [new code](https://gist.github.com/daveism/2222a46bcd36db23b24bca85066bd155#file-ncgis-2017-index-with-dns-html-L96)
+- [new code](https://gist.github.com/daveism/2222a46bcd36db23b24bca85066bd155#file-ncgis-2017-index-with-dns-html-L95)
 
 no go to the URL \
