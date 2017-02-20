@@ -3,9 +3,9 @@
 
 ## Things I am using
 
+### Services
 [ArcGIS Online](http://www.arcgis.com/)
 You can create a FREE account!
-
 
 [GitHub](https://github.com/)
 You can create a FREE account!
