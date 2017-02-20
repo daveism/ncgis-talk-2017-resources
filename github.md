@@ -75,7 +75,6 @@ Rename the repository:  ```WNC Fires 2016```
 
 On GitHub in the forked repository go to settings >  
 
-
   In the rename text box type ```WNC Fires 2016```
   then click ```rename```
 
