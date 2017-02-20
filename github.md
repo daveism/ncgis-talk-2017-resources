@@ -80,6 +80,8 @@ Do a hard refresh in your browser.
 
 **No cost**
 
+##
+
 #### Step 5: Customize
 One customized it can no longer live on ArcGIS online. You need a place to host it.
 
