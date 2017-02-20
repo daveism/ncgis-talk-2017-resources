@@ -41,14 +41,13 @@ Name it: WNC Fires 2016
 
 # Step 2: Share the map
 
-Share the map.
-
 WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section
-
 
 Open the web map in ArcGIS Online using via a map viewer
 
-Share with Everyone
+Find te share map button. It says share map.
+
+Choose to share with Everyone.  For a GitHub hosted application this is required.
 
 > Make a note about webmap id your going to need it later
 
