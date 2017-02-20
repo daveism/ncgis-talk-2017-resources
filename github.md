@@ -162,7 +162,7 @@ On GitHub go to settings >
  
  &nbsp;&nbsp;&nbsp;&nbsp;click `save`
 
-There should be a new file in your repository named `CNAME`.  It contains the text you entered as a subdomain.
+There should be a new file in your repository named `CNAME`.  It contains the text you entered as a subdomain `wncfires2016.nemac.org`.
 
 Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example of what the cname looks like using Amazons Route 53.
 
