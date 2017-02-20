@@ -74,8 +74,8 @@ or just the stuff that changed
 Do a hard refresh in your browser.
 ```
 
-****No servers yet.
-****No cost.
+**No servers**
+**No cost**
 
 #### Step 5: Customize
 One customized it can no longer live on ArcGIS online. You need a place to host it.
