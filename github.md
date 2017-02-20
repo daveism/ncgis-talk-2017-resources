@@ -11,7 +11,8 @@ You can create a FREE account!
 You can create a FREE account!
 
 
-### Data this could be published to everyone from anyone. So by your favorite City or Orginaztion. In this case NEMAC.
+### Data
+This could be published to everyone from anyone. So by your favorite City or Orginaztion. In this case NEMAC.
  [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
  Source map.  A source map that I created and shared with everyone
  
