@@ -83,21 +83,16 @@ On GitHub in the forked repository go to settings >
 
 GitHub Pages
 
-```
 On GitHub go to settings >
-  Scroll down to the GitHub Pages section.
-  Change the select source to master branch click save
-```
 
-```
+  Scroll down to the ```GitHub Pages``` section.
+  Change the select source to ```master branch``` then click ```save```
+
 Wait a few moments
-```
 
-```
-When the url turns green it's ready.  
-```
+When the background of the url just under the GitHub pages seaction turns green it's ready.  
 
-Click and see the magic.
+Click the url and see the magic.
 
 
 # Step 4: Configure the viewer
