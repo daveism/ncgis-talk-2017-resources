@@ -35,10 +35,7 @@ Save this [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f
 
 Save as: WNC Fires 2016
 
-
 ![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
-
-This saves the map to your AGOL account
 
 
 # Step 2: Share
