@@ -1,7 +1,5 @@
 
-## No It needed.
-### Dude where's my server's
-
+## No It needed. (Dude where's my server)
 
 #### Step 1: Log into ArcGIS Online Borrow a map and save it
 ```
