@@ -1,7 +1,7 @@
 
 ## No It needed. (Dude where's my server)
 
-#### Step 1: Log into ArcGIS Online Borrow a map and save it
+#### Step 1: Log into ArcGIS Online borrow a map and save it
 ```
 For this example use this map at the URL below and do a save as WNC Fires 2016
 ```
