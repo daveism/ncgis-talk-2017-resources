@@ -41,7 +41,7 @@ Name it: WNC Fires 2016
 
 # Step 2: Share
 
-Share thehe map.
+Share the map.
 
 WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section
 
