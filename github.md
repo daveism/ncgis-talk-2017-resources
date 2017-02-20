@@ -79,7 +79,7 @@ On GitHub go to settings >
   then click rename
 ```
 
-# Step 3: Do some magic
+# Step 3: Magic
 
 GitHub Pages
 
