@@ -107,9 +107,17 @@ then
 
 #### Step 6: Customize look and feel
 
-- [index.html changes](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e)
+```
+add this line to index.html
+```
 
-- [CSS changes](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
+[index.html changes](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16)
+
+```
+just replace this whole file.
+```
+[CSS changes](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
+
 
 #### Step 7: Using your own URL
 
