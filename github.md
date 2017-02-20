@@ -85,8 +85,25 @@ Do a hard refresh in your browser.
 #### Step 5: Customize
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
 
+```
 You need a place to host it.
-- [main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
+```
+
+```
+Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know! 
+```
+
+https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5#file-ncgis-2017-main-js-L334
+and
+https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5#file-ncgis-2017-main-js-L344
+
+```
+then
+```
+
+
+[main.js changes](https://gist.github.com/daveism/41a800fa6b7a1813ea621148dfa453d5)
+
 
 #### Step 6: Customize look and feel
 
