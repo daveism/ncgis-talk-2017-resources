@@ -19,7 +19,7 @@ You can create a FREE account!
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data I created and shared with everyone for getting field names
 
-Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from anyone. Like your favorite City or Orginaztion. In this case NEMAC.
+Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from anyone. Like your favorite City or Orginaztion. In this case [NEMAC](https://nemac.unca.edu/).
 
 ### Convience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
