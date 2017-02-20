@@ -43,9 +43,9 @@ Name it: ```WNC Fires 2016```
 
 # Step 2: Share the map
 
-WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section
+WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section of ArcGIS Online.
 
-Open the web map in ArcGIS Online using via a map viewer
+Open the web map in ArcGIS Online using a map viewer
 
 Find te share map button. It says share map.
 
