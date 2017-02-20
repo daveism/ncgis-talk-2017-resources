@@ -132,15 +132,13 @@ or just edit the stuff that changed
 # Step 6: Customize the look to match your branding
 
 
-add this line to index.html
+add this [line](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16) to ```index.html```
 
-[index.html changes](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16)
+[index.html changes](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-
 
 
 
-just replace the whole file css/main.css with this one:
-
-[CSS changes](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
+just replace the whole file ```css/main.css``` with this [file](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
 
 
 Change the color scheme to #5091B2 in ```config/deafualt.js```
