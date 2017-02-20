@@ -39,7 +39,7 @@ Name it: WNC Fires 2016
 ![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
 
 
-# Step 2: Share
+# Step 2: Share the map
 
 Share the map.
 
@@ -48,7 +48,7 @@ WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home
 
 Open the web map in ArcGIS Online using via a map viewer
 
-Share with Every one
+Share with Everyone
 
 > Make a note about webmap id your going to need it later
 
@@ -58,23 +58,29 @@ Share with Every one
 
 We are going to use an ESRI template.  
 
+
+
 Search ArcGIS Online for the Summary Map Viewer 
 
+Click on the Viewer.
 
-```
-Then fork it directly in GitHub
-```
+Click on Download.
+
+This takes yuo the GitHub Repostory for the Summary Map Viewer.
+
+Fork it.
 
 
-Your can fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) it directly in GitHub
+You can also just fork the [Summary Map Viewer](https://github.com/Esri/summary-viewer-template) in GitHub with ArcGIS Online
 
 
-# Step 4: Rename
+# Step 4: Rename the "repository"
 
-Rename the viewer:  WNC Fires 2016 
+Rename the repository:  WNC Fires 2016 
 
-```
 On GitHub go to settings >  
+
+```
   In the rename text box type WNC Fires 2016 
   then click rename
 ```
