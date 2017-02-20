@@ -96,7 +96,7 @@ Click and see the magic.
 #### Step 4: Configure the viewer
 
 
-you can copy and paste the file ```config/default.js```  from here
+you replace the file with the ```config/default.js``` with the contents of 
 [config/default.js](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce)
 
 
@@ -120,9 +120,9 @@ Do a hard refresh in your browser.
 > You need a place to host it.
 
 
-Let's change the viewer so the messages about count and acres actuall tell the user what we want them to know!  Where are working with ```js/main.js```
+Let's change the viewer so the messages about count and acres actuall tell the user what they want.  Total Fires and Total Acres Burned. 
 
-you replace the file with this one:
+you replace the file with the ```js/main.js``` with the contents of 
 [js/main.js](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020)
 
 or just edit the stuff that changed
