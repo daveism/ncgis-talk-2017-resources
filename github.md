@@ -158,7 +158,7 @@ On GitHub go to settings >
  
  &nbsp;&nbsp;&nbsp;&nbsp;in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`
  
- > of course for your site the `nemac.org` will change
+ > of course for your site, the `nemac.org` will change
  
  &nbsp;&nbsp;&nbsp;&nbsp;click `save`
 
