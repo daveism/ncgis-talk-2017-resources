@@ -90,7 +90,7 @@ On GitHub go to settings >
 
 Wait a few moments... refresh the browser.
 
-When the background of the url just under the GitHub pages seaction turns green it's ready.  
+When the background of the url just under the GitHub pages section turns green it's ready.  
 
 Click the url and see the magic.
 
