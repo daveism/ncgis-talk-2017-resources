@@ -12,12 +12,14 @@ You can create a FREE account!
 
 
 ### Data
-This could be published to everyone from anyone. So by your favorite City or Orginaztion. In this case NEMAC.
+
  [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
  Source map.  A source map that I created and shared with everyone
  
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data I created and shared with everyone for getting field names
+
+Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from anyone. Like your favorite City or Orginaztion. In this case NEMAC.
 
 ### Convience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
