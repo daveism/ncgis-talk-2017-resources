@@ -7,7 +7,7 @@ For this example use this map at the URL below and do a save as WNC Fires 2016
 ```
 - [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
 
-__this save's the map into your ArcGIS Online account.
+__ this save's the map into your ArcGIS Online account.
 
 
 #### Step 2: The map, WNC Fires 2016 should now be listed in your my content section
