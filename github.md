@@ -30,7 +30,7 @@ If your logged into ArcGIS Online (AGOL) go straight to your content page.  Beca
 
 Log in to ArcGIS Online.
 
-Save this [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) to your ArcGIS Online account.
+Save this [Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) to your ArcGIS Online account.
 
 
 Save as: WNC Fires 2016
