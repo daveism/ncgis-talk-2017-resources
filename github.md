@@ -10,7 +10,7 @@ You can create a FREE account!
 [GitHub](https://github.com/)
 You can create a FREE account!
 
-[Source Map](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
+[Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data for getting field names
 
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
