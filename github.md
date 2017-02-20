@@ -95,18 +95,13 @@ Click and see the magic.
 
 #### Step 4: Configure the viewer
 
-```
-change the config/default.js 
-you can copy and paste the entire thing
-```
 
-[Config changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce)
+you can copy and paste the file ```config/default.js```  from here
+[config/default.js](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce)
 
-```
-or just the stuff that changed
-```
 
-https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions
+or just edit the stuff that changed
+[config/default.js Changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions)
 
 
 ```
