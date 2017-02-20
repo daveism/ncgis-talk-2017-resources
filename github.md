@@ -167,7 +167,7 @@ There should be a new file in your repository named `CNAME`.  It contains the te
 Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example of what the cname looks like using Amazons Route 53.
 
 
-Finalluy, the viewer has some hardcoding in it we need fix it change this:
+Finally, the viewer has some hardcoding in it we need fix it change this:
 
 - [new code](https://gist.github.com/daveism/d9d2cf2d34c5ee9b540ec5ca8abf4dab/revisions)
 
