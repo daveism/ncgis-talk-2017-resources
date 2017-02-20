@@ -19,7 +19,7 @@ This could be published to everyone from anyone. So by your favorite City or Org
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
 Source Data I created and shared with everyone for getting field names
 
-### for convience
+### Convience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 If your logged into ArcGIS Online (AGOL) go straight to your content page.  Because I never seem to go straight there.
 
