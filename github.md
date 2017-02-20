@@ -106,9 +106,8 @@ or just edit the stuff that changed
 [config/default.js changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions)
 
 
-```
 Do a hard refresh in your browser.
-```
+
 
 # Note
 
