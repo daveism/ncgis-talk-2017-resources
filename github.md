@@ -114,7 +114,6 @@ Do a hard refresh in your browser.
 
 **No cost**
 
-##
 
 #### Step 5: Customize
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
