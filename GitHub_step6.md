@@ -11,4 +11,4 @@ just replace the whole file `css/main.css` with this [file](https://gist.github.
 
 Change the color scheme to #5091B2 in `config/deafualt.js`
 
-[Go to next step](GitHub_step6.md)
+[Go to next step](GitHub_step7.md)
