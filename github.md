@@ -79,7 +79,7 @@ On GitHub in the forked repository go to settings
 
 &nbsp;&nbsp;&nbsp;&nbsp;then click `rename`
 
-![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIVnVacTJUNzQ4bTg)
+![rename](https://docs.google.com/uc?id=0BykF_bN9fsvISWdxREtmdU5VNk0)
 
 
 # Step 3: Magic
