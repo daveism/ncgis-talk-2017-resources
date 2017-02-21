@@ -1,9 +1,6 @@
 [[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Go to previous step]](GitHub_step4.md)
 &nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-&nbsp;
-
-
 # Step 5: Customize
 
 After [Step 4](GitHub_step4.md) is complete, we will start to customize the map viewer.
