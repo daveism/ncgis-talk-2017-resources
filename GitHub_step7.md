@@ -23,15 +23,15 @@ Okay, you caught me. You might have to pay a few dollars if you need to buy a do
 - Click `Save`.
 
 
-There should be a new file in your repository named `CNAME`.  It contains the text you entered as a subdomain `wncfires2016.nemac.org`.
+There should be a new file in your repository named `CNAME`. It contains the text you entered as a subdomain `wncfires2016.nemac.org`.
 
-Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example of what the cname looks like using Amazons Route 53.
+Add a CNAME record according to the DNS provider's directions. There are just too many providers for me to go over each one. Here is an example of what the CNAME looks like using Amazon's Route 53.
 
 ![rename](dns.png)
 
-Finally, the viewer has some hard coding we need fix it change this [line](https://gist.github.com/daveism/d9d2cf2d34c5ee9b540ec5ca8abf4dab/revisions?diff=split) in the file `index.html`.
+Finally, the viewer has some hard coding. We need to fix it. Change this [line](https://gist.github.com/daveism/d9d2cf2d34c5ee9b540ec5ca8abf4dab/revisions?diff=split) in the file `index.html`.
 
-now navigate to the URL in my case its `wncfires2016.nemac.org`.
+Now, navigate to the URL. In my case, it's `wncfires2016.nemac.org`.
 
 **DONE** 
 
