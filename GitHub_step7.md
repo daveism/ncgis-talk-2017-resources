@@ -1,4 +1,4 @@
-[[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](step6.md)
+[[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 &nbsp;
