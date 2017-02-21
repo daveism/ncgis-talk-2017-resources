@@ -9,7 +9,6 @@ After [step 3](GitHub_step3.md) is complete we will rename the generic repositor
 
 On GitHub in the forked repository go to settings
 
-
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
 
