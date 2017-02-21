@@ -1,7 +1,9 @@
 [[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[ArcGIS Online My Content]](http://www.arcgis.com/home/content.html)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to next step]](GitHub_step1.md)
 ##
 
+&nbsp;
 
+&nbsp;
 
 ## Resources I am using
 
