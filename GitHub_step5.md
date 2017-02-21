@@ -16,8 +16,7 @@ First we need to update the configuration of the viewer.
 Replace the file `config/default.js` with the contents of 
 [config/default.js]https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
 
-or just edit the stuff that changed
-[config/default.js changes](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7/revisions?diff=split)
+or just edit the stuff that changed [config/default.js changes](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7/revisions?diff=split)
 
 Let's change the viewer so the messages about count and sum are tell the user exactly what the data represents.  In this case the number of fires and the acres burned.
 
