@@ -31,7 +31,7 @@ Add a cname record according to DNS providers directions.  There are just too ma
 
 Finally, the viewer has some hard coding we need fix it change this [line](https://gist.github.com/daveism/d9d2cf2d34c5ee9b540ec5ca8abf4dab/revisions?diff=split) in the file `index.html`.
 
-now navigate to the URL in my case it's `wncfires2016.nemac.org`.
+now navigate to the URL in my case its `wncfires2016.nemac.org`.
 
 **DONE** 
 
