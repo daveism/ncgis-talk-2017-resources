@@ -21,7 +21,7 @@ You can [create](https://github.com/join) a FREE account!
  
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1) - Source data I created and shared with everyone. I use the source data to copy and paste field names into map viewer configuration files.
 
-Note: You can use any web map published on ArcGIS Online (AGO). Like a web map published by your favorite city or organization. In this case, it's [NEMAC](https://nemac.unca.edu/).
+Note: You can use any web map published on ArcGIS Online (AGO), like a web map published by your favorite city or organization. In this case, it's [NEMAC](https://nemac.unca.edu/).
 
 ### Convenience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html) - Use this link to go straight to the my content page when you're logged into ArcGIS Online (AGOL).  For some reason every time I need to get to my content the link is not available.
