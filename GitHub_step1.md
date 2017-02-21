@@ -15,6 +15,6 @@ Choose Save As.
 
 Name it: `WNC Fires 2016`
 
-![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
+> ![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
 
 [[Got to next step]](GitHub_step2.md)
