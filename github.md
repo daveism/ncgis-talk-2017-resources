@@ -76,6 +76,7 @@ On GitHub in the forked repository go to settings
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;In the rename text box type `WNC Fires 2016`
+
 &nbsp;&nbsp;&nbsp;&nbsp;then click `rename`
 
 
