@@ -65,7 +65,7 @@ This will take you to the GitHub Repostory for the Summary Map Viewer.
 
 Fork it.
 
-![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
+![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvIVnVacTJUNzQ4bTg)
 
 # Step 4: Rename the "repository"
 
