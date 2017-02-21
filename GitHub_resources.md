@@ -1,4 +1,4 @@
-[[Back to main]](github.md)
+[[Back to start]](github.md)
 
 &nbsp;
 
