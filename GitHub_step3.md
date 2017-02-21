@@ -18,7 +18,7 @@ Click on Download.
 
 ![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvIcFBlR2F4QkQtRUU)
 
-This will take you to the GitHub Repostory for the Summary Map Viewer.
+This will take you to the GitHub repository for the Summary Map Viewer.
 
 Fork it.
 
