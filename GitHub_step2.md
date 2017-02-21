@@ -5,7 +5,9 @@
 
 # Step 2: Share the map
 
-WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section of ArcGIS Online.
+Afer you "borrow" a map you need to share it with everyone!  Since GitHub is not a server you have configuration access to.  The  **ArcGIS Online (AGOL)**  map will need to provide access to everyone for the viewer to work properly
+
+After [step 1](GitHub_step1.md) is comple WNC Fires 2016 should now be listed in your [content](http://www.arcgis.com/home/content.html) section of ArcGIS Online.
 
 Open the web map in ArcGIS Online.
 
