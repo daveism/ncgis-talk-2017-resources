@@ -5,7 +5,7 @@
 
 # Step 2: Share the map
 
-Afer you "borrow" a map, you will need to share it with everyone!  The  **ArcGIS Online (AGOL)**  map will need to provide access to everyone for the viewer to work properly
+Afer you "borrow" a map [in step 2](GitHub_step1.md), you will need to share it with everyone!  The  **ArcGIS Online (AGOL)**  map will need to provide access to everyone for the viewer to work properly
 
 After [step 1](GitHub_step1.md) is comple WNC Fires 2016 will be listed in the my [content](http://www.arcgis.com/home/content.html) section of AGOL.
 
