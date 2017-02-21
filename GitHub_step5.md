@@ -19,7 +19,7 @@ Replace the file `config/default.js` with the contents of
 [config/default.js](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a).  
 
 **You can do this by**
-- Copying everything in this [linked file].(https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a).  
+- Copying everything in this linked [file].(https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a).  
 - Edit the `config/default.js` file on GitHub. 
 - Select and delete all existing text in the file `config/default.js`.
 - Paste into  `config/default.js`.
