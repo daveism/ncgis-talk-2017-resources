@@ -5,20 +5,18 @@
 
 # Step 7: Using your Domain or Subdomain
 
-Okay you caught me.  You might have to pay a few dollars, if you buy a domain. And you might need I.T.'s help. But it's easy I promise.
+After completing [step 6](GitHub_step6.md) lets go one step further and add our web domain to web site. This will make this page appear to be part of overall webpage.
+
+Okay you caught me.  You might have to pay a few dollars, if you need to buy a domain I will assume you already did this so the cost remains 0.  You might need I.T.'s help. But it's easy I promise.
 
 
-On GitHub go to settings >
+**On GitHub go to settings**
+- Scroll down to the GitHub Pages section.
+- look for section - `Custom Domain` 
+- in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`
+-  > For your site, the `nemac.org` will change
+- click `save`
 
- &nbsp;&nbsp;&nbsp;&nbsp;Scroll down to the GitHub Pages section.
- 
- &nbsp;&nbsp;&nbsp;&nbsp;look for section - `Custom Domain` 
- 
- &nbsp;&nbsp;&nbsp;&nbsp;in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`
- 
- > For your site, the `nemac.org` will change
- 
- &nbsp;&nbsp;&nbsp;&nbsp;click `save`
 
 There should be a new file in your repository named `CNAME`.  It contains the text you entered as a subdomain `wncfires2016.nemac.org`.
 
