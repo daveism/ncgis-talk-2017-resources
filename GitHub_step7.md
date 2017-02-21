@@ -1,7 +1,7 @@
-[Back to start](github.md)
+[[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_resources.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-[Back to step 7](GitHub_step7.md)
-
+&nbsp;
 
 # Step 7: Using your Domain or Subdomain
 
@@ -16,7 +16,7 @@ On GitHub go to settings >
  
  &nbsp;&nbsp;&nbsp;&nbsp;in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`
  
- > of course for your site, the `nemac.org` will change
+ > For your site, the `nemac.org` will change
  
  &nbsp;&nbsp;&nbsp;&nbsp;click `save`
 
