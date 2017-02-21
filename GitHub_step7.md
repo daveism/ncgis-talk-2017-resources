@@ -1,4 +1,4 @@
-[Back to Start](github.md)
+[Back to start](github.md)
 
 [Back to step 7](GitHub_step7.md)
 
