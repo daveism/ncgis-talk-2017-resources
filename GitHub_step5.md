@@ -16,18 +16,26 @@ After [step 4](GitHub_step4.md) is complete we will start to customize the map v
 First we need to update the configuration of the viewer.
 
 Replace the file `config/default.js` with the contents of 
-[config/default.js](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
+[config/default.js](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a).  You can do this by copying everying in the the linked file.  Then editing the `config/default.js` file directly on GitHub.
+
+![editing config/default.js](https://docs.google.com/uc?id=0BykF_bN9fsvIaExtbGE3UEgxS3c)
 
 or just edit the stuff that [changed](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7/revisions?diff=split)
+
 
 ## Code 
 
 Next let's change the viewer so the messages about count and sum are tell the user exactly what the data represents.  In this case the number of fires and the acres burned.
 
 Replace the file `js/main.js` with the contents of 
-[js/main.js](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7)
+[js/main.js](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7) again do this by copying everying in the the linked file.  Then editing the `config/default.js` file directly on GitHub.
+
+![js/main.js](https://docs.google.com/uc?id=0BykF_bN9fsvIRWtYdlJQaWxoNnM)
 
 or just edit the stuff that changed
 [js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions?diff=split))
+
+
+
 
 [[Go to next step]](GitHub_step6.md)
