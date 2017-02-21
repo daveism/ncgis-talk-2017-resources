@@ -45,7 +45,7 @@ Replace the file `js/main.js` with the contents of
 ![js/main.js](https://docs.google.com/uc?id=0BykF_bN9fsvIOXdMQmVKLVZULVU)
 
 or just edit the stuff that changed
-[js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions?diff=split)).
+([js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions?diff=split)).
 
 
 [[Go to next step]](GitHub_step6.md)
