@@ -26,6 +26,13 @@ Note: You can use any web map published on ArcGIS Online (AGO).   Like a web map
 ### Convenience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html) - Use this link to go straight to the my content page when you're logged into ArcGIS Online (AGOL).  For some reason every time I need to get to my content the link is not available.
 
+### Things for Coping and Pasting
+- WNC Fires 2016
+- incidentna
+- wncfires2016.nemac.org
+- daveism.github.io
+- http://wncfires2016.nemac.org
+
 [[Got to next step]](GitHub_step1.md)
 
 [boom](boom.md)
