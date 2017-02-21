@@ -12,7 +12,7 @@ After [step 4](GitHub_step4.md) is complete we will start to customize the map v
 > You need a place to host it.
 
 
-Let's change the viewer so the messages about count and sum are more accurate.
+Let's change the viewer so the messages about count and sum are tell the user exactly what the data represents.  In this case the number of fires and the acres burned.
 
 Replace the file `js/main.js` with the contents of 
 [js/main.js](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020)
