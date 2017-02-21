@@ -37,5 +37,3 @@ or just edit the stuff that changed
 
 
 [[Go to next step]](GitHub_step6.md)
-
-[boom](boom.md)
