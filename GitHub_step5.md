@@ -14,7 +14,7 @@ After [step 4](GitHub_step4.md) is complete we will start to customize the map v
 First we need to update the configuration of the viewer.
 
 Replace the file `config/default.js` with the contents of 
-[config/default.js ]https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
+[config/default.js](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
 
 or just edit the stuff that [changed](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7/revisions?diff=split)
 
