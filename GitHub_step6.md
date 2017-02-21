@@ -7,7 +7,7 @@
 
 After completing [step 5](GitHub_step5.md), lets make the branding consistent.  We will change the default font and the color scheme to match what I use on my sites.
 
-Add this [line](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16) to `index.html` file.
+Add this [line](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16) to the file `index.html`.
 
 There are a lot of changes just replace the conents of `css/main.css` with the contents of this  [file](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60)
 
