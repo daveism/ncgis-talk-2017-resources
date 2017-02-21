@@ -104,14 +104,15 @@ Click the url and see the magic.
 
 # Step 4: Configure the viewer
 
-
-you replace the file with the ```config/default.js``` with the contents of 
+Replace the file with the `config/default.js` with the contents of 
 [config/default.js](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce)
 
 
 or just edit the stuff that changed
 [config/default.js changes](https://gist.github.com/daveism/f05a1c146d9d3f41e31efb0757e7dfce/revisions)
 
+
+![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIRWtYdlJQaWxoNnM)
 
 Do a hard refresh in your browser.
 
