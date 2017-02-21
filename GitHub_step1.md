@@ -1,4 +1,6 @@
-[Back to Start](github.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_resources.md)
+
+&nbsp;
 
 # Step 1: "Borrow" a map
 
