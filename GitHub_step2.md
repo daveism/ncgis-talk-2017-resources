@@ -7,13 +7,13 @@
 
 Afer you "borrow" a map you need to share it with everyone!  Since GitHub is not a server you have configuration access to.  The  **ArcGIS Online (AGOL)**  map will need to provide access to everyone for the viewer to work properly
 
-After [step 1](GitHub_step1.md) is comple WNC Fires 2016 will be listed in your [content](http://www.arcgis.com/home/content.html) section of ArcGIS Online.
+After [step 1](GitHub_step1.md) is comple WNC Fires 2016 will be listed in the my [content](http://www.arcgis.com/home/content.html) section of AGOL.
 
-Open the web map in ArcGIS Online.
+Open the web map in AGOL (in a new window if you think about it).
 
-Share the map with Everyone. Note: For a GitHub hosted application this is required.
+Share the map with Everyone.
 
-> Make a note about webmap id your going to need it later
+> keep this window open your going to need the webmap later!
 
 ![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
 
