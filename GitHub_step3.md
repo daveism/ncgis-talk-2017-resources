@@ -1,12 +1,15 @@
-[Back to Start](github.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_step2.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-[Back to step 2](GitHub_step2.md)
+&nbsp;
 
 # Step 3: Fork a viewer
 
-We are going to use an ESRI template.  
+Afer completing [step 3](GitHub_step2.md), we will start the process of creating a web site! To do this will [Fork](https://help.github.com/articles/github-glossary/#fork) or copy all the code necessary to run the website to a [Github repository](https://help.github.com/articles/github-glossary/#repository). 
 
-Search ArcGIS Online for the Summary Map Viewer 
+We are going to use an [ESRI](http://www.esri.com/) map viewer template.  
+
+Search  **ArcGIS Online (AGOL)**  for the Summary Map Viewer 
 
 Click on the Viewer.
 
