@@ -9,7 +9,7 @@ You have access to no servers.
 You have no budget. 
 
 ## Assumption 
-This assumes you either (i) have an account or (ii) have the ability to create an account to [ArcGIS Online](https://www.arcgis.com) and :octocat: [GitHub](https://github.com/). Both of which can be free.
+This assumes you either (i) have an account, or (ii) have the ability to create an account in [ArcGIS Online](https://www.arcgis.com) and :octocat: [GitHub](https://github.com/), both of which can be free.
 
 ## What we will do
 - [Getting started](GitHub_resources.md)
