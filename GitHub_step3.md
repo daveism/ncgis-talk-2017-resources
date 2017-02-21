@@ -3,7 +3,7 @@
 
 # Step 3: Fork a viewer
 
-After completing [Step 2](GitHub_step2.md), we start the process of creating our website! To do this, we need to [Fork](https://help.github.com/articles/github-glossary/#fork) or copy all of the code to a new [GitHub repository](https://help.github.com/articles/github-glossary/#repository).  The new repository authorizes us to make [commits](https://help.github.com/articles/github-glossary/#commit) or changes.
+After completing [Step 2](GitHub_step2.md), we start the process of creating our website! To do this, we need to ["fork"](https://help.github.com/articles/github-glossary/#fork) or copy all of the code to a new [GitHub repository](https://help.github.com/articles/github-glossary/#repository).  The new repository authorizes us to make [commits](https://help.github.com/articles/github-glossary/#commit) or changes.
 
 
 We are going to use an [ESRI](http://www.esri.com/) map viewer template.  
