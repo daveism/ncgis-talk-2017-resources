@@ -8,7 +8,7 @@
 After completing [Step 6](GitHub_step6.md), let's go one step further and add a domain to the website. That way, the map viewer will appear to be part of organization's website.
 
 
-Okay, you caught me. You might have to pay a few dollars if you need to buy a domain. I will assume you already did this so the cost remains 0. Also, you might need I.T.'s help. But it's easy. I promise.
+Okay, you caught me. You might have to pay a few dollars if you need to buy a domain. I will assume you already did this, so the cost remains $0. Also, you might need I.T.'s help. But it's easy. I promise.
 
 
 **On GitHub go to settings**
