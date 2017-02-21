@@ -9,7 +9,7 @@ Find an existng map and make a copy of it.  This can be any map on ArcGIS Online
 
 Log in to ArcGIS Online.
 
-Save this [Web Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) to your ArcGIS Online account.
+Save this AGOL [Web Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) to your ArcGIS Online account.
 
 Choose Save As.
 
