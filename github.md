@@ -3,7 +3,13 @@
 
 A step by step guide to creating your very own [ArcGIS Online](https://www.arcgis.com) map viewer hosted on GitHub. This can be done in in under 15 minutes at very little cost = $0.  
 
-The ideas behing this is you have the need to create a customized map viewer using [ArcGIS Online](https://www.arcgis.com).  You have access to no servers.  You have no budget.  This assumes you have either have an account or have the ability to create a login to both [ArcGIS Online](https://www.arcgis.com) and [GitHub](https://github.com/).
+## Scenario 
+You have the need to create a customized map viewer using [ArcGIS Online](https://www.arcgis.com).  
+You have access to no servers.  
+You have no budget. 
+
+## Assumption 
+This assumes you either have an account or have the ability to create an account to [ArcGIS Online](https://www.arcgis.com) and [GitHub](https://github.com/). Both of whic can be free.
 
 - [Geting Started](GitHub_resources.md)
 - [Step 1 "Borrow" a map](GitHub_step1.md)
