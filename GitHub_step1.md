@@ -5,7 +5,7 @@
 
 # Step 1: "Borrow" a map 
 
-Find an existng map and make a copy of it.  This can be any map on ArcGIS Online **(AGOL)** and could be published from anyone. Like your favorite City or Organization. In this case it's [NEMAC](https://nemac.unca.edu/)
+Find an existng map and make a copy of it.  This can be any map on **ArcGIS Online (AGOL)** and could be published from anyone. Like your favorite City or Organization. In this case it's [NEMAC](https://nemac.unca.edu/)
 
 Log in to ArcGIS Online.
 
