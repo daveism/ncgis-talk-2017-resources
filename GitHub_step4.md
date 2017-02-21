@@ -5,7 +5,7 @@
 
 # Step 4: Rename the "repository"
 
-After [step 3](GitHub_step3.md) is complete we will rename the generic repository name to better describe our project.
+After [step 3](GitHub_step3.md) is complete, we will rename the repository.  The new name should do a better job describing the subject.
 
 **On GitHub in the forked repository go to settings**
 
