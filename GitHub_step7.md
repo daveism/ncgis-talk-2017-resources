@@ -15,7 +15,7 @@ Okay you caught me.  You might have to pay a few dollars, if you need to buy a d
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
 - Scroll down to the GitHub Pages section.
-- look for section - `Custom Domain`.
+- look for the section - `Custom Domain`.
 - in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`.
 > For your site, the `nemac.org` will change.
 
@@ -26,6 +26,7 @@ There should be a new file in your repository named `CNAME`.  It contains the te
 
 Add a cname record according to DNS providers directions.  There are just too many providers to go over each one.  Here is an example of what the cname looks like using Amazons Route 53.
 
+![rename](dns.png)
 
 Finally, the viewer has some hardcoding we need fix it change this:
 
