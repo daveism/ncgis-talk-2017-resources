@@ -16,13 +16,13 @@ You can [create](https://github.com/join) a FREE account!
 
 ### Data
 
- [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d)
- Source map.  A source map that I created and shared with everyone
+ [Source Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) A source map that I created and shared with everyone.
+
  
 [Source Layer](http://services1.arcgis.com/PwLrOgCfU0cYShcG/arcgis/rest/services/wnc_fires_2016/FeatureServer/1)
-Source Data I created and shared with everyone for getting field names
+ Source Data I created and shared with eveSource data I created and shared with everyone.  I use the source data to copy and paste field names into map viewer configuration files.ryone for getting field names
 
-Note: Data can be anything on ArcGIS Online (AGOL) and could be published from anyone. Like your favorite City or Organization. In this case it's [NEMAC](https://nemac.unca.edu/).
+Note: You can use any web map published on ArcGIS Online (AGO).   Like a web map published by your favorite City or Organization.  In this case, it's [NEMAC](https://nemac.unca.edu/).
 
 ### Convenience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
