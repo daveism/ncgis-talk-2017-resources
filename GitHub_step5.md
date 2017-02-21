@@ -31,7 +31,7 @@ or just edit the stuff that [changed](https://gist.github.com/daveism/185dbc903a
 
 ## Code 
 
-Next let's change the viewer so the messages about count and sum are tell the user exactly what the data represents.  In this case the number of fires and the acres burned.
+Next, let's improve the messages.  In this case, let's change count and sum to the number of fires and the acres burned.
 
 Replace the file `js/main.js` with the contents of 
 [js/main.js](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7)
