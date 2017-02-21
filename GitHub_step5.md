@@ -2,13 +2,6 @@
 
 [Back to step 4](GitHub_step4.md)
 
-# Note
-
-**No servers**
-
-**No cost**
-
-
 # Step 5: Customize
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
 > You need a place to host it.
@@ -23,4 +16,3 @@ or just edit the stuff that changed
 [js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions)
 
 [Go to next step](GitHub_step6.md)
-
