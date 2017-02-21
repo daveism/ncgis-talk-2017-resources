@@ -11,6 +11,7 @@ You have no budget.
 ## Assumption 
 This assumes you either have an account or have the ability to create an account to [ArcGIS Online](https://www.arcgis.com) and [GitHub](https://github.com/). Both of whic can be free.
 
+## What we will do
 - [Geting Started](GitHub_resources.md)
 - [Step 1 "Borrow" a map](GitHub_step1.md)
 - [Step 2 Share the map](GitHub_step2.md)
