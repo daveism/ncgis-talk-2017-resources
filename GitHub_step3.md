@@ -8,6 +8,8 @@ We are going to use an ESRI template.
 
 Search ArcGIS Online for the Summary Map Viewer 
 
+![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvIcFBlR2F4QkQtRUU)
+
 Click on the Viewer.
 
 Click on Download.
