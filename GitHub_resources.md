@@ -33,6 +33,6 @@ Note: You can use any web map published on ArcGIS Online (AGOL), like a web map 
 - daveism.github.io
 - http://wncfires2016.nemac.org
 
-[[Got to next step]](GitHub_step1.md)
+[[Go to next step]](GitHub_step1.md)
 
 [boom](boom.md)
