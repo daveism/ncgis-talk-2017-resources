@@ -1,9 +1,8 @@
-[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_resources.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_resources.md)&nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 &nbsp;
 
 # Step 1: "Borrow" a map 
-[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 Log in to ArcGIS Online.
 
