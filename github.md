@@ -79,13 +79,14 @@ On GitHub in the forked repository go to settings
 
 &nbsp;&nbsp;&nbsp;&nbsp;then click `rename`
 
+![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIVnVacTJUNzQ4bTg)
 
 
 # Step 3: Magic
 
 GitHub Pages
 
-On GitHub go to settings >
+On GitHub go to settings
 
   Scroll down to the ```GitHub Pages``` section.
   Change the select source to ```master branch``` then click ```save```
