@@ -88,14 +88,17 @@ GitHub Pages
 
 On GitHub go to settings
 
-  Scroll down to the ```GitHub Pages``` section.
-  Change the select source to ```master branch``` then click ```save```
+![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Scroll down to the `GitHub Pages` section.
+&nbsp;&nbsp;&nbsp;&nbsp;Change the select source to `master branch` then click `save`
 
 Wait a few moments... refresh the browser.
 
 When the background of the url just under the GitHub pages section turns green it's ready.  
 
 Click the url and see the magic.
+
 
 
 # Step 4: Configure the viewer
