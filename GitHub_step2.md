@@ -1,6 +1,7 @@
-[Back to Start](github.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_step1.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-[Back to step 1](GitHub_step1.md)
+&nbsp;
 
 # Step 2: Share the map
 
@@ -14,5 +15,4 @@ Share the map with Everyone. Note: For a GitHub hosted application this is requi
 
 ![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
 
-[Go to next step 3](GitHub_step3.md)
-
+[[Go to next step]](GitHub_step3.md)
