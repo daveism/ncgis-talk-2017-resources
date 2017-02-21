@@ -5,7 +5,7 @@ A step-by-step guide to creating your very own [ArcGIS Online](https://www.arcgi
 
 ## Scenario 
 You have the need to create a customized map viewer using [ArcGIS Online](https://www.arcgis.com).  
-You have access to 0 servers.  
+You have access to no servers.  
 You have no budget. 
 
 ## Assumption 
