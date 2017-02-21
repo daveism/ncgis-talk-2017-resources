@@ -1,8 +1,6 @@
 [[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Go to previous step]](GitHub_step6.md)
 &nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-&nbsp;
-
 # Step 7: Using your domain or subdomain
 
 After completing [Step 6](GitHub_step6.md), let's go one step further and add a domain to the website. That way, the map viewer will appear to be part of organization's website.
