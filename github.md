@@ -20,3 +20,4 @@ This assumes you either have an account or have the ability to create an account
 - [Step 5 Customize](GitHub_step5.md)
 - [Step 6 Customize the branding](GitHub_step6.md)
 - [Step 7 Using your Domain or Subdomain](GitHub_step7.md)
+- [boom](boom.md)
