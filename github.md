@@ -1,6 +1,8 @@
 
 # No I.T. needed. (Dude where's my server)
 
+A step by step guide to creating your very own [ArcGIS Online](https://www.arcgis.com/home/signin.html) map viewer hosted on GitHub. This can be done in in under 15 minutes at very little cost = $0.  
+
 
 - [Get Started](GitHub_resources.md)
 - [Step 1 "Borrow" a map](GitHub_step1.md)
