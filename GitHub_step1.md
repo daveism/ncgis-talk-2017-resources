@@ -1,4 +1,4 @@
-[[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to previous step]](GitHub_resources.md)
+[[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Go to previous step]](GitHub_resources.md)
 &nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 # Step 1: "Borrow" a map 
