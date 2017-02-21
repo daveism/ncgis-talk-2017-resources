@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# Step 1: "Borrow" a map
+# Step 1: "Borrow" a map [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
 Log in to ArcGIS Online.
 
