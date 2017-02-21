@@ -1,7 +1,5 @@
 [[Back to start]](github.md)
 
-&nbsp;
-
 ## Resources I am using
 
 A collection of resources I am using. The collection includes websites and all data I am using in the exercise.
