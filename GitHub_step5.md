@@ -30,7 +30,7 @@ Next let's change the viewer so the messages about count and sum are tell the us
 Replace the file `js/main.js` with the contents of 
 [js/main.js](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7) again do this by copying everying in the the linked file.  Then editing the `config/default.js` file directly on GitHub.
 
-![js/main.js](https://docs.google.com/uc?id=0BykF_bN9fsvIRWtYdlJQaWxoNnM)
+![js/main.js](https://docs.google.com/uc?id=0BykF_bN9fsvIWS1XQ2stakFOS3c)
 
 or just edit the stuff that changed
 [js/main.js changes](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020/revisions?diff=split))
