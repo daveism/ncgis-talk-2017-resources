@@ -2,7 +2,7 @@
 
 [Back to step 5](GitHub_step5.md)
 
-# Step 6: Customize the look to match your branding
+# Step 6: Customize the branding
 
 add this [line](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16) to `index.html`
 
