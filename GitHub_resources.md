@@ -7,10 +7,10 @@
 A collection of resources I am using. The collection includes websites and all data I am using in the exercise.
 
 ### Services
-[ArcGIS Online] (http://www.arcgis.com/) - 
+[ArcGIS Online](http://www.arcgis.com/) - 
 You can [create](https://www.arcgis.com/home/signin.html) a FREE account!
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/) - 
 You can [create](https://github.com/join) a FREE account!
 
 
