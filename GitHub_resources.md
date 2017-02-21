@@ -4,7 +4,7 @@
 
 ## Resources I am using
 
-This is a collection of resources including web services, Data, and a link to for (my) convenience.
+A collection of resources I am using.  The collection includes websites and all data I am using in the exercise.
 
 ### Services
 [ArcGIS Online](http://www.arcgis.com/)
