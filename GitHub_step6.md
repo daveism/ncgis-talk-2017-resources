@@ -14,4 +14,4 @@ There are a lot of changes so jus replace the conents of `css/main.css` with the
 
 Then  `config/deafualt.js` change the color scheme to [#5091B2](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7#file-ncgis-2017-defaults-js-L17). 
 
-[Go to next step](GitHub_step7.md)
+[[Go to next step]](GitHub_step7.md)
