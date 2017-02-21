@@ -65,14 +65,18 @@ This will take you to the GitHub Repostory for the Summary Map Viewer.
 
 Fork it.
 
-# Step 4: Rename the "repository"
+![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
 
-Rename the repository:  ```WNC Fires 2016```
+# Step 4: Rename the "repository"
 
 On GitHub in the forked repository go to settings >  
 
-  In the rename text box type ```WNC Fires 2016```
-  then click ```rename```
+![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the rename text box type `WNC Fires 2016`
+&nbsp;&nbsp;&nbsp;&nbsp;then click `rename`
+
 
 
 # Step 3: Magic
