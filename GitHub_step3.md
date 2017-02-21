@@ -20,4 +20,4 @@ Fork it.
 
 ![Fork](https://docs.google.com/uc?id=0BykF_bN9fsvIMlhON0luLUZtdWs)
 
-[Go to next step 4](GitHub_step4.md)
+[Go to next step](GitHub_step4.md)
