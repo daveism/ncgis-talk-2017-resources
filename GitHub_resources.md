@@ -1,4 +1,4 @@
-[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](github.md)
+[[Back to main]](github.md)
 
 &nbsp;
 
