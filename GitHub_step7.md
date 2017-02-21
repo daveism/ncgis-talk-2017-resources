@@ -11,7 +11,7 @@ After completing [Step 6](GitHub_step6.md), let's go one step further and add a 
 Okay, you caught me. You might have to pay a few dollars if you need to buy a domain. I will assume you already did this, so the cost remains $0. Also, you might need I.T.'s help. But it's easy. I promise.
 
 
-**On GitHub go to settings**
+**On GitHub go to "Settings"**
 
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
