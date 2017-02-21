@@ -69,7 +69,8 @@ Fork it.
 
 # Step 4: Rename the "repository"
 
-On GitHub in the forked repository go to settings >  
+On GitHub in the forked repository go to settings
+
 
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
