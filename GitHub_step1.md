@@ -1,3 +1,5 @@
+[Back to Start](github.md)
+
 # Step 1: "Borrow" a map
 
 Log in to ArcGIS Online.
@@ -10,4 +12,4 @@ Name it: `WNC Fires 2016`
 
 ![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
 
-
+[Next Step 2](GitHub_step2.md)
