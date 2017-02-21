@@ -1,8 +1,6 @@
 [[Back to start]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Go to previous step]](GitHub_step5.md)
 &nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-&nbsp;
-
 # Step 6: Customize the branding
 
 After completing [Step 5](GitHub_step5.md), let's make the branding consistent. We will change the default font and the color scheme to match what I use on my sites.
