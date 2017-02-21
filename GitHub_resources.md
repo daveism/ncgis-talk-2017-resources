@@ -2,12 +2,14 @@
 
 ## Resources I am using
 
+This is collection of resources including web services, Data, and a link to for (my) convenience.
+
 ### Services
 [ArcGIS Online](http://www.arcgis.com/)
-You can create a FREE account!
+You can [create](https://www.arcgis.com/home/signin.html) a FREE account!
 
 [GitHub](https://github.com/)
-You can create a FREE account!
+You can [create](https://github.com/join) a FREE account!
 
 
 ### Data
@@ -20,7 +22,7 @@ Source Data I created and shared with everyone for getting field names
 
 Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from anyone. Like your favorite City or Organization. In this case it's [NEMAC](https://nemac.unca.edu/).
 
-### Convience
+### Convenience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 If you're logged into ArcGIS Online (AGOL) go straight to my content page.  Because I never seem to go straight there and sometimes the link to my content is not available.
 
