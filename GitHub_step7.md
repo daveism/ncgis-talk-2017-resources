@@ -14,7 +14,7 @@ Okay you caught me.  You might have to pay a few dollars, if you need to buy a d
 - Scroll down to the GitHub Pages section.
 - look for section - `Custom Domain` 
 - in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`
--  > For your site, the `nemac.org` will change
+> For your site, the `nemac.org` will change
 - click `save`
 
 
