@@ -129,9 +129,9 @@ Do a hard refresh in your browser.
 > You need a place to host it.
 
 
-Let's change the viewer so the messages about count and acres actuall tell the user what they want.  Total Fires and Total Acres Burned. 
+Let's change the viewer so the messages about count and sum are more accurate.
 
-Replace the file ```js/main.js``` with the contents of 
+Replace the file `js/main.js` with the contents of 
 [js/main.js](https://gist.github.com/daveism/981289ab2730a7f1f148e6b991ef7020)
 
 or just edit the stuff that changed
