@@ -1,7 +1,7 @@
 
 # No I.T. needed. (Dude where's my server)
 
-## Things I am using
+## Resources I am using
 
 ### Services
 [ArcGIS Online](http://www.arcgis.com/)
