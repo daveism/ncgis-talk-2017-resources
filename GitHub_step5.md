@@ -22,7 +22,7 @@ Replace the file `config/default.js` with the contents of
 - Copying everything in the the [linked file](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a).  
 - Edit the `config/default.js` file on GitHub. 
 - Select and delete all existing text in `config/default.js`.
-- Paste the into  `config/default.js`.
+- Paste into  `config/default.js`.
 
 ![editing config/default.js](https://docs.google.com/uc?id=0BykF_bN9fsvIaExtbGE3UEgxS3c)
 
