@@ -1,5 +1,5 @@
 
-# No I.T. needed. (Dude where's my server)
+# No I.T. needed. (Dude, where's my server?)
 
 A step-by-step guide to creating your very own [ArcGIS Online](https://www.arcgis.com) map viewer hosted on GitHub. This can be done in under 15 minutes at very low cost :moneybag: (aka $0).  In fact I can demo the process in under 10! :thumbsup: :100: :punch:
 
