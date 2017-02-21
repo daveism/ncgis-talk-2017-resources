@@ -3,7 +3,7 @@
 
 # Step 2: Share the map
 
-After you "borrow" a map in [Step 1](GitHub_step1.md), you need to share it with everyone for the map viewer to work. The web map "WNC Fires 2016" will be listed in the [my content](http://www.arcgis.com/home/content.html) section of AGOL.
+After you "borrow" a map in [Step 1](GitHub_step1.md), you need to share it with everyone for the map viewer to work. The web map "WNC Fires 2016" will be listed in the [My Content](http://www.arcgis.com/home/content.html) section of AGOL.
 
 Open the web map in AGOL (in a new window if you think about it).
 
