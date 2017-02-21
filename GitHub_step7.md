@@ -16,11 +16,11 @@ Okay, you caught me. You might have to pay a few dollars if you need to buy a do
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
 - Scroll down to the GitHub Pages section.
-- look for the section - `Custom Domain`.
-- in the Custom Domain text box add the text for a subdomain.  I am using `wncfires2016.nemac.org`.
+- Look for the section called `Custom Domain`.
+- In the Custom Domain text box, add the text for a subdomain. I am using `wncfires2016.nemac.org`.
 > For your site, the `nemac.org` will change.
 
-- click `save`.
+- Click `Save`.
 
 
 There should be a new file in your repository named `CNAME`.  It contains the text you entered as a subdomain `wncfires2016.nemac.org`.
