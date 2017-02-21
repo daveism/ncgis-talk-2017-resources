@@ -1,7 +1,5 @@
 [[Back to start]](github.md)
 
-&nbsp;
-
 ## Resources I am using
 
 This is collection of resources including web services, Data, and a link to for (my) convenience.
