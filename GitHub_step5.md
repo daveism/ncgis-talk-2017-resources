@@ -37,7 +37,7 @@ Replace the file `js/main.js` with the contents of
 [js/main.js](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7)
 
 **You can do this by**
-- Copying everything in this [linked file](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7).  
+- Copying everything in this linked [file](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7).  
 - Edit the `js/main.js` file on GitHub. 
 - Select and delete all existing text in the file `js/main.js`.
 - Paste into  `js/main.js`.
