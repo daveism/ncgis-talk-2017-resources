@@ -5,7 +5,7 @@
 
 # Step 3: Fork a viewer
 
-Afer completing [step 3](GitHub_step2.md), we will start the process of creating a web site! To do this will [Fork](https://help.github.com/articles/github-glossary/#fork) or copy all the code necessary to run the website to a [Github repository](https://help.github.com/articles/github-glossary/#repository). 
+Afer completing [step 3](GitHub_step2.md), we start the process of creating a web site! To do this will [Fork](https://help.github.com/articles/github-glossary/#fork) or copy all the code necessary to run the website to a [Github repository](https://help.github.com/articles/github-glossary/#repository). 
 
 We are going to use an [ESRI](http://www.esri.com/) map viewer template.  
 
