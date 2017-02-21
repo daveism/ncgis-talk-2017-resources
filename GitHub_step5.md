@@ -11,12 +11,16 @@ After [step 4](GitHub_step4.md) is complete we will start to customize the map v
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
 > You need a place to host it.
 
+## Configuration 
+
 First we need to update the configuration of the viewer.
 
 Replace the file `config/default.js` with the contents of 
 [config/default.js](https://gist.github.com/daveism/64c30b371a055f18bd20c52557d51d3a)
 
 or just edit the stuff that [changed](https://gist.github.com/daveism/185dbc903a9f3755cf241700ef8374d7/revisions?diff=split)
+
+## Code 
 
 Let's change the viewer so the messages about count and sum are tell the user exactly what the data represents.  In this case the number of fires and the acres burned.
 
