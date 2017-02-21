@@ -13,7 +13,8 @@ On GitHub in the forked repository go to settings
 
 - In the rename text box type `WNC Fires 2016`
 - Then click `rename`
-- ![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIcjBCVFlqZUlsZzg)
+
+![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIcjBCVFlqZUlsZzg)
 
 
 [[Go to next step]](GitHub_step5.md)
