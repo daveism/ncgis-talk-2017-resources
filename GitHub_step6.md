@@ -9,7 +9,7 @@ After completing [step 5](GitHub_step5.md), lets make the branding consistent.  
 
 Add this [line](https://gist.github.com/daveism/9d02902697ffc62f4ccc4f67b7ce011e#file-ncgis-2017-index-no-dns-html-L16) to the file `index.html`.
 
-There are a lot of changes with `css/main.css`. So replace the the contents of `css/main.css` with the contents of this [file](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60).
+There are a lot of changes with `css/main.css`. So replace the contents of `css/main.css` with the contents of this [file](https://gist.github.com/daveism/aa4af8c979021671d9ec6ab37d729a60).
 
 ![js/main.js](https://docs.google.com/uc?id=0BykF_bN9fsvIaFozVGhYMjV4TG8)
 
