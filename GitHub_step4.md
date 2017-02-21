@@ -1,8 +1,11 @@
-[Back to Start](github.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to last step]](GitHub_step3.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 
-[Back to step 3](GitHub_step3.md)
+&nbsp;
 
 # Step 4: Rename the "repository"
+
+After [step 3](GitHub_step3.md) is complete we will rename the generic repository name to better describe our project.
 
 On GitHub in the forked repository go to settings
 
@@ -16,5 +19,4 @@ On GitHub in the forked repository go to settings
 
 ![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIcjBCVFlqZUlsZzg)
 
-[Go to next step 5](GitHub_step5.md)
-
+[[Go to next step]](GitHub_step5.md)
