@@ -1,4 +1,4 @@
-[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Got to next step]](GitHub_step1.md)
+[[Back to main]](github.md)&nbsp;&nbsp;&nbsp;&nbsp;[[Got to next step]](GitHub_step1.md)
 
 ## Resources I am using
 
