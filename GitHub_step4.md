@@ -10,7 +10,7 @@ After [Step 3](GitHub_step3.md) is complete, we will rename the repository. The 
 ![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIU0hBWE52ZTBjWUE)
 
 - In the "Rename" text box, type `WNC Fires 2016`
-- Then click `rename`
+- Then click `Rename`
 
 ![rename](https://docs.google.com/uc?id=0BykF_bN9fsvIcjBCVFlqZUlsZzg)
 
