@@ -99,6 +99,7 @@ When the background of the url just under the GitHub pages section turns green i
 
 Click the url and see the magic.
 
+![Settings](https://docs.google.com/uc?id=0BykF_bN9fsvIdzF1NWJFbzBOZ1E)
 
 
 # Step 4: Configure the viewer
