@@ -6,7 +6,7 @@
 
 # Step 5: Customize
 
-After [step 4](GitHub_step4.md) is complete we will start to customize the map viewer.
+After [step 4](GitHub_step4.md) is complete, we will start to customize the map viewer.
 
 > Once  you customize a viewer, the viewer can no longer live on ArcGIS online. 
 > You need a place to host it.
