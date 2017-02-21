@@ -24,7 +24,7 @@ You can [create](https://github.com/join) a FREE account!
 Note: You can use any web map published on ArcGIS Online (AGO), like a web map published by your favorite city or organization. In this case, it's [NEMAC](https://nemac.unca.edu/).
 
 ### Convenience
-[ArcGIS Online My Content](http://www.arcgis.com/home/content.html) - Use this link to go straight to the my content page when you're logged into ArcGIS Online (AGOL).  For some reason every time I need to get to my content the link is not available.
+[ArcGIS Online My Content](http://www.arcgis.com/home/content.html) - Use this link to go straight to the "my content" page when you're logged into AGO. For some reason, every time I need to get to my content, the link is not available.
 
 ### Things for Coping and Pasting
 - WNC Fires 2016
