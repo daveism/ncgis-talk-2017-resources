@@ -13,7 +13,7 @@ Open the web map in AGOL (in a new window if you think about it).
 
 Share the map with Everyone.
 
-> keep this window open your going to need the webmap later!
+> Tip: keep this window open your going to need the webmap later!
 
 ![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
 
