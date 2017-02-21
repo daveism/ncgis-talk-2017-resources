@@ -13,5 +13,5 @@ Share the map with Everyone. Note: For a GitHub hosted application this is requi
 ​
 ![share](https://docs.google.com/uc?id=0BykF_bN9fsvITHBReHBleFI4SHc)
 ​
-[Next Step 3](GitHub_step3.md)
+[Go to next step 3](GitHub_step3.md)
 
