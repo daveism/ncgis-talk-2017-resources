@@ -26,7 +26,7 @@ Note: You can use any web map published on ArcGIS Online (AGO), like a web map p
 ### Convenience
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html) - Use this link to go straight to the "my content" page when you're logged into AGO. For some reason, every time I need to get to my content, the link is not available.
 
-### Things for Coping and Pasting
+### Things for Copying and Pasting
 - WNC Fires 2016
 - incidentna
 - wncfires2016.nemac.org
