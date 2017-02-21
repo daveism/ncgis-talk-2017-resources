@@ -25,18 +25,7 @@ Note: Data can be anlyting on ArcGIS Online (AGOL) and could be published from a
 [ArcGIS Online My Content](http://www.arcgis.com/home/content.html)
 If you're logged into ArcGIS Online (AGOL) go straight to my content page.  Because I never seem to go straight there and sometimes the link to my content is not available.
 
-
-# Step 1: "Borrow" a map
-
-Log in to ArcGIS Online.
-
-Save this [Web Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=7a1f7ebd8d7f429b94335e8890561c4d) to your ArcGIS Online account.
-
-Choose Save As.
-
-Name it: `WNC Fires 2016`
-
-![Save as](https://docs.google.com/uc?id=0BykF_bN9fsvITXBKVWozUXRYRFk)
+[Got to Step 1](GitHub_step1.md)
 
 
 # Step 2: Share the map
