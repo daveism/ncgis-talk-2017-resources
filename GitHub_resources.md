@@ -1,6 +1,7 @@
 [[Back to start]](github.md)
 
 ## Resources I am using
+### https://goo.gl/t5GafG
 
 A collection of resources I am using. The collection includes websites and all data I am using in the exercise.
 
