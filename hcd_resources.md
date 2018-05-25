@@ -23,5 +23,7 @@
 ## General
 - [Value Proposition](https://strategyzer.com/canvas/value-proposition-canvas)
 - [18f](https://methods.18f.gov/index.html)
+- [Laws of UX](https://lawsofux.com/)
+- [Laws of UX](https://blog.prototypr.io/10-laws-of-ux-design-and-engineering-97e8e676aea1)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [Open Ended Questions](https://www.nngroup.com/articles/open-ended-questions/)
